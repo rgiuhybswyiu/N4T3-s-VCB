@@ -27,7 +27,7 @@ button.MouseButton1Click:Connect(function()
         
       
         local message = Instance.new("Message")
-        message.Text = "VC Suspension Bypassed"
+        message.Text = "You're Now Un VCB"
         message.Parent = workspace  
         wait(3)  
         message:Destroy()  
